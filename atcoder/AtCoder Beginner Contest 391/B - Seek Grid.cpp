@@ -1,3 +1,6 @@
+
+//solved
+
 #include <bits/stdc++.h>
 using namespace std;
 const int NSIZ = 59;
