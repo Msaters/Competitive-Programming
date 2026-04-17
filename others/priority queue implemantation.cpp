@@ -67,15 +67,15 @@ public:
 
 const int N = 1e5 + 7;
 vector<pair<int, int>> G[N]; // neighour, distance
-long long dist[N];
+int dist[N];
 bool vis[N];
 
-const int M = 1e6 + 7;
-pair<int, long long> arr[M]; // array for minHeap
+const int M = 2e6 + 7;
+pair<int, int> arr[M]; // array for minHeap
 
 void dijkstra() {
-    minHeap<pair<int, long long>> pq(
-        [](const pair<int, long long>& a, const pair<int, long long>& b) { 
+    minHeap<pair<int, int>> pq(
+        [](const pair<int, int>& a, const pair<int, int>& b) { 
             return a.second > b.second; 
         }, 
         arr
@@ -87,19 +87,19 @@ void dijkstra() {
         auto [i, d] = pq.top(); pq.pop();
         if(!vis[i]) {
             vis[i] = true;
-            dist[i] = d;
             
             for(pair<int, int> w : G[i]) {
                 auto [j, e] = w;
-                if(!vis[j]) {
-                    pq.push({j, (long long) d + e});
+                if(d + e < dist[j]) {
+                    dist[j] = d + e;
+                    pq.push({j, dist[j]});
                 }
             }
         }
     }
 }
 
-const int INF = 1e9;
+const int INF = 2e9;
 
 int main() {
 	// your code goes here
@@ -124,7 +124,7 @@ int main() {
             return 0;
         }
         
-        result += 2 * dist[q];
+        result += (long long) 2 * dist[q];
     }
     
     cout << result;
