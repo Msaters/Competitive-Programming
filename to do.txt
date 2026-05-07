@@ -1,1 +1,2 @@
 3225. Maximum Score From Grid Operations - LEETCODE
+3660. Jump Game IX - fajnee!
