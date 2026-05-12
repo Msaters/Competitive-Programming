@@ -1,2 +1,3 @@
 3225. Maximum Score From Grid Operations - LEETCODE
 3660. Jump Game IX - fajnee!
+1665. Minimum Initial Energy to Finish Tasks - dowód dla greedy, https://gemini.google.com/app/588245907f37c109?hl=pl
