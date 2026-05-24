@@ -1,0 +1,2 @@
+- Monotonic stack for example (1340. Jump Game V - LT)
+- Practice segment trees more (f.e. 1340. Jump Game V -LT)
