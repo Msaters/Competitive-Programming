@@ -1,2 +1,3 @@
 - Monotonic stack for example (1340. Jump Game V - LT)
+* Practice more sliding window
 - Practice segment trees more (f.e. 1340. Jump Game V -LT)
