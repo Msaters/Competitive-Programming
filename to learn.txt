@@ -1,3 +1,6 @@
 - Monotonic stack for example (1340. Jump Game V - LT)
 * Practice more sliding window
 - Practice segment trees more (f.e. 1340. Jump Game V -LT)
+- Fenwick tree (3161. Block Placement Queries)
+- Trie
+* aho-Corasic (Zliczanie wzorców - solve)
