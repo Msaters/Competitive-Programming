@@ -4,3 +4,4 @@
 - Fenwick tree (3161. Block Placement Queries)
 - Trie
 * aho-Corasic (Zliczanie wzorców - solve)
+- practice dijstra with dp (Wiedźmak - solve)
