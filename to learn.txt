@@ -5,3 +5,4 @@
 - Trie
 * aho-Corasic (Zliczanie wzorców - solve)
 - practice dijstra with dp (Wiedźmak - solve)
+* Sparse Table
