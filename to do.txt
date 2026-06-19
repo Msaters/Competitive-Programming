@@ -5,6 +5,7 @@ LEETCODE
 1674. Minimum Moves to Make Array Complementary - zmienić moją implementacje z tysiącem ifów na prostsza z editoriala
 3753. Total Waviness of Numbers in Range II
 3614. Process String with Special Operations II
+1344. Angle Between Hands of a Clock
 
 Solve
 - wiedźmak
