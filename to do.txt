@@ -6,6 +6,7 @@ LEETCODE
 3753. Total Waviness of Numbers in Range II
 3614. Process String with Special Operations II
 1344. Angle Between Hands of a Clock
+1840. Maximum Building Height
 
 Solve
 - wiedźmak
