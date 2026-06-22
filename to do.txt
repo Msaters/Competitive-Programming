@@ -7,6 +7,7 @@ LEETCODE
 3614. Process String with Special Operations II
 1344. Angle Between Hands of a Clock
 1840. Maximum Building Height
+1189. Maximum Number of Balloons
 
 Solve
 - wiedźmak
