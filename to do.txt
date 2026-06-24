@@ -8,6 +8,8 @@ LEETCODE
 1344. Angle Between Hands of a Clock
 1840. Maximum Building Height
 1189. Maximum Number of Balloons
+3699. Number of ZigZag Arrays I
+3700. Number of ZigZag Arrays II
 
 Solve
 - wiedźmak
