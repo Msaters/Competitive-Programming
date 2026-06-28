@@ -10,6 +10,7 @@ LEETCODE
 1189. Maximum Number of Balloons
 3699. Number of ZigZag Arrays I
 3700. Number of ZigZag Arrays II
+3739. Count Subarrays With Majority Element II
 
 Solve
 - wiedźmak
