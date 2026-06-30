@@ -12,7 +12,11 @@ LEETCODE
 3700. Number of ZigZag Arrays II
 3739. Count Subarrays With Majority Element II
 
+SLIDING WINDOW
+1358. Number of Substrings Containing All Three Characters
+
 Solve
 - wiedźmak
 - tree kmp
 - Maximum Total Subarray Value II
+
